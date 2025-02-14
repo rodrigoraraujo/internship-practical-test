@@ -32,6 +32,12 @@ Este teste prático tem como objetivo avaliar a familiaridade do candidato com a
 
 ---
 
+## Etapa inicial: Faça um clone deste repositório
+##
+```bash
+git clone https://github.com/rodrigoraraujo/internship-practical-test.git
+```
+
 ## Etapa 1: Avaliação de Lógica de Programação
 
 Nesta etapa, o objetivo é avaliar a capacidade do candidato em resolver problemas de lógica e algoritmos.
