@@ -10,7 +10,6 @@ Este teste prático tem como objetivo avaliar a familiaridade do candidato com a
   - **IMPORTANTE**: Caso utilize assistentes de IA, **copie e cole os prompts** utilizados para gerar as respostas.
 - O candidato pode utilizar a linguagem de programação de sua preferência.
 - O teste está dividido em três etapas, cada uma com foco em uma área específica.
-- Escolha a linguagem que você tem mais familiaridade para resolver os desafios.
 - Todas as aplicações devem ser executáveis e testáveis pelo terminal (__console application__) ou em um ambiente web (__web application__).
   
 **Linguagens disponíveis\*:**
