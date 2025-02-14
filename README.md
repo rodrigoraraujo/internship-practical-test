@@ -11,15 +11,14 @@ Este teste prático tem como objetivo avaliar a familiaridade do candidato com a
 - O candidato pode utilizar a linguagem de programação de sua preferência.
 - O teste está dividido em três etapas, cada uma com foco em uma área específica.
 
----
-
 **Linguagens disponíveis:**
 - Python 3.12
 - JavaScript (Node.js)
 - TypeScript (Node.js)
 - Java 17
-- C# 9
- 
+- C# 9 
+
+---
 
 ## Etapa 1: Avaliação de Lógica de Programação
 
