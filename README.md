@@ -13,6 +13,14 @@ Este teste prático tem como objetivo avaliar a familiaridade do candidato com a
 
 ---
 
+**Linguagens disponíveis:**
+- Python 3.12
+- JavaScript (Node.js)
+- TypeScript (Node.js)
+- Java 17
+- C# 9
+ 
+
 ## Etapa 1: Avaliação de Lógica de Programação
 
 Nesta etapa, o objetivo é avaliar a capacidade do candidato em resolver problemas de lógica e algoritmos.
