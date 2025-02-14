@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS", // Use CommonJS module syntax
+    "target": "ES6",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true
+  }
+}

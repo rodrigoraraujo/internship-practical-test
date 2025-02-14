@@ -7,16 +7,24 @@ Este teste prático tem como objetivo avaliar a familiaridade do candidato com a
 **Regras Gerais:**
 - É permitido consultar a internet durante o teste.
 - É permitido o uso de assistentes de IA (como ChatGPT, Copilot, etc.).
-  - Caso utilize assistentes de IA, **copie e cole os prompts** utilizados para gerar as respostas.
+  - **IMPORTANTE**: Caso utilize assistentes de IA, **copie e cole os prompts** utilizados para gerar as respostas.
 - O candidato pode utilizar a linguagem de programação de sua preferência.
 - O teste está dividido em três etapas, cada uma com foco em uma área específica.
-
-**Linguagens disponíveis:**
+- Escolha a linguagem que você tem mais familiaridade para resolver os desafios.
+- Todas as aplicações devem ser executáveis e testáveis pelo terminal (__console application__) ou em um ambiente web (__web application__).
+  
+**Linguagens disponíveis\*:**
 - Python 3.12
-- JavaScript (Node.js)
-- TypeScript (Node.js)
+- JavaScript (Node/Bun)
+- TypeScript (Bun)
 - Java 17
-- C# 9 
+- C# 12 (dotnet 8)
+- Dart 3.7.0
+
+** IDE Recomendada:**
+- Visual Studio Code
+
+*Se a linguagem de sua preferência não estiver listada, entre em contato para verificar a possibilidade de utilizá-la.
 
 ---
 
@@ -100,7 +108,7 @@ Adicione estilos CSS à página criada na Tarefa 1 para:
 ## Instruções Finais
 
 1. Organize seu código em pastas e arquivos separados para cada etapa.
-2. Envie o código final em um repositório Git (GitHub, GitLab, etc.) ou compactado em um arquivo `.zip`.
+2. Envie o código final compactado em um arquivo `[SEU NOME COMPLETO].zip`.
 3. Caso tenha utilizado assistentes de IA, inclua um arquivo `prompts.txt` com os prompts utilizados.
 
 ### **Boa sorte!**
