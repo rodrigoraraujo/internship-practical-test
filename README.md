@@ -28,7 +28,7 @@ Este teste prático tem como objetivo avaliar a familiaridade do candidato com a
 
 ---
 
-## Duração prevista: __1 hora e 30 minutos__
+### Duração prevista: __1 hora e 30 minutos__
 
 ---
 
