@@ -21,7 +21,7 @@ Este teste prático tem como objetivo avaliar a familiaridade do candidato com a
 - C# 12 (dotnet 8)
 - Dart 3.7.0
 
-** IDE Recomendada:**
+**IDE Recomendada:**
 - Visual Studio Code
 
 *Se a linguagem de sua preferência não estiver listada, entre em contato para verificar a possibilidade de utilizá-la.
