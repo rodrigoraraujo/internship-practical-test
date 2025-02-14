@@ -2,6 +2,6 @@
 branch=$(git rev-parse --abbrev-ref HEAD)
 
 if [ "$branch" = "main" ]; then
-    echo "🚨 Não é permitido commits na branch main."
+    echo "🚨 Não é permitido commits na branch main. "
     exit 1  # Exit with error to block commit
 fi
